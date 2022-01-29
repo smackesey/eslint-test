@@ -1,5 +1,2 @@
-
-
-const x = {a:1};
-
-const yy = 'b'
+const x = 1
+console.log(x);
